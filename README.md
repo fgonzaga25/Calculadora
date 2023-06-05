@@ -1,2 +1,2 @@
 # Tic Tac Toe
-Just a simple calculator app.
+Just a tic-tac-toe game.
